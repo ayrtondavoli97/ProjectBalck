@@ -1,0 +1,196 @@
+.padreli {
+    background-color:black;
+    border-bottom: 3px solid white;
+    
+    
+    
+}
+
+
+.padreheader3 {
+    background-color: black;
+    text-align: center;
+    color: aliceblue;
+}
+
+.padreheader {
+    background-color: black;
+    background-image: linear-gradient(transparent,black), url(moon.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100vw;
+}
+
+.padrey {
+    width: 100%;
+    height: 100vh;
+}
+
+.titolo1 {
+    font-family: 'Black Ops One', system-ui;
+    font-family: 'Bungee Spice', sans-serif;
+    font-family: 'Climate Crisis', sans-serif;
+    font-family: 'Condiment', cursive;
+    font-family: 'DotGothic16', sans-serif;
+    font-family: 'Fascinate', system-ui;
+    font-family: 'Faster One', system-ui;
+    font-family: 'Honk', system-ui;
+    font-family: 'Kablammo', system-ui;
+    font-family: 'Lilita One', sans-serif;
+    font-family: 'Linden Hill', serif;
+    font-family: 'Nabla', system-ui;
+    font-family: 'Nanum Brush Script', cursive;
+    font-family: 'Nova Square', sans-serif;
+    color: aliceblue;
+    font-size: 50px;
+    margin-top: 300px;
+    margin-left:100px;
+    
+    
+    
+}
+
+
+.paragrafo1 {
+    font-size: 20px;
+    font-family: 'Lilita One', sans-serif;
+    margin-left: 100px;
+    margin-bottom: 450px;
+}
+
+.icona1 {
+   font-size: 30px;
+    color: rgb(18, 153, 210);
+    margin-top: 200px;
+}
+
+.lorem {
+    margin-left: 20px;
+    border-bottom: 2px solid blue;
+    padding-left: 20px;
+}
+
+.padreheader4 {
+    background-color: black;
+    margin-left: 60px;
+    
+   
+}
+
+body {
+    background-color: black;
+}
+
+.sottosottotitolo {
+    color: rgb(0, 128, 255);
+}
+
+.correzzione {
+    color: aliceblue;
+}
+
+.dimensioni {
+    width: 300px;
+    height: 200px;
+    align-items: end;
+}
+
+/* font e colore */
+/* Color: #2B9DF4
+
+Font: Orbitron, Jura */
+
+
+
+
+
+
+.linea{border-bottom: 2px rgb(43, 157, 244) solid; }
+.mar{text-align: right;}
+.scrittebianche{color: white;
+      font-family: "Orbitron", sans-serif;
+      font-optical-sizing: auto;
+      font-weight: <weight>;
+      font-style: normal;
+    }
+
+
+    .mar2{text-align: center;}
+
+    .mar3{margin-top: 250px;}
+
+    .colortitle{color:#2B9DF4 ;}
+
+    .razzo{background: url(./missile-2027068_1280.png); background-position: right; background-repeat: no-repeat; background-size: contain;}
+
+  .linea1{
+    border: bottom ,solid,  5px , rgb(43, 157, 244) ;
+   
+
+
+
+}
+
+
+  .linea2{ 
+
+    color: rgb(43, 157, 244)  ;
+
+}
+
+.paragrafo2 {
+    color: rgb(169, 153, 153);
+    text-align: start;
+    align-items: end;
+}
+
+.paragrafo3 {
+    color: rgb(169, 153, 153);
+    text-align: start;
+}
+
+.buttonpersonale {
+  margin-left: 300px;
+  border-left: 5px dotted blue;
+  border-right: 5px dotted blue ;
+}
+
+.altezza {
+    height: 100px;
+    width: 100px;
+}
+
+.linea-5 {
+    background-image: url(sunrise-1765027_1920.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 700px;
+    min-height: 100%;
+ 
+}
+
+.paragrafo5 {
+    margin-top: 600px;
+    color: white;
+}
+
+.paragrafo4 {
+    margin-top: 650px;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+
+  
+  
+
+
+
+
+
+
